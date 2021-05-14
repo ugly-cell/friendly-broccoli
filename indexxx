@@ -1,0 +1,96 @@
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200&display=swap" rel="stylesheet">
+
+<style>
+    
+   
+    body {
+        background-color: beige;
+         font-size: 30px;
+        font-family: 'Monument';
+    }
+    }
+    h2 {
+        font-size: 50px;
+        line-height: 5px;
+
+    }
+    
+    .blue-text
+    {
+        color: ghostwhite;
+        font-size: 50px;
+       font-family: 'Hanson';
+
+    }
+    
+    .azure
+    {        color: white;
+}
+    a:link {
+        
+    color: lightyellow;
+        text-decoration: none;
+
+        
+    }
+    a:hover {
+        
+        color: pink;
+        text-decoration-style: wavy;
+        text-decoration-line: underline;
+    }
+    
+    div {
+        background-color:pink;
+        width: 310px;
+        height: auto;
+        margin: 50px auto;
+        padding: 10px;
+       
+        border-radius: 100px;
+    }
+
+    
+    button 
+    {
+        color: black;
+        background-color: azure;
+        padding: 10px;
+    }
+    
+    button:hover {
+         background-color: pink;
+    }
+    
+
+</style>
+
+<div class="azure"><b><Center>UGLY STUDIOS</Center></b></div>
+
+<Center><h2 class="blue-text"> <a href="www.instagram.com"> instagram</a><BR>
+    <a href="www.instagram.com">twitter</a> <BR>
+    <a href="www.instagram.com">    twitch </a><BR>
+    <a href="www.instagram.com">donate</a><BR>
+    </center>
+    
+    
+    
+    </h2>
+<button>Button </button>
+
+<form>
+        <p>Tell us the best date for the competition</p>
+        <label for="pickdate">Preferred Date:</label>
+
+        <!-- Only change code below this line -->
+<input type="date" id="pickdate" name="date">
+
+
+        <!-- Only change code above this line -->
+
+        <input type="submit" name="submit" value="Submit">
+      </form>
+
+    
+    
